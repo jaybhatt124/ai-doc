@@ -14,8 +14,7 @@ A full-stack healthcare educational website with interactive body map, illness i
 
 ```
 ai-doctor/
-├── api/
-|--  |___app.py                  # Flask main application & all API routes
+├── app.py                  # Flask main application & all API routes
 ├── schema.sql              # MySQL database schema + seed data
 ├── requirements.txt        # Python dependencies
 ├── .env.example            # Environment variables template
